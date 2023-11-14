@@ -1,6 +1,4 @@
 # SpringBoot_Todo
-[5:11 PM] Roobinee Rajesh
-# spring-boot-jpa-todo
 
 REST API with the following HttpRequests using JPA:
  
@@ -23,14 +21,11 @@ REST API with the following HttpRequests using JPA:
         🔗 PUT
  
         🔗 DELETE
- 
- 
-  -> '💻-Java' for coding
+        
+        '💻-Java' for coding
  
  
 Steps followed to develop the API:-
- 
-----------------------------------
  
     👉 Used Model for information, Controller for Mapping, Service for business logics and Repository for Database queries.
  
